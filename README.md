@@ -1,7 +1,7 @@
 # EV-scheduling
 
- The world is moving quickly towards Electric Vehi
- cles(EV) and the required infrastructures are also developed in
+ The world is moving quickly towards Electric Vehicles(EV) 
+ and the required infrastructures are also developed in
  a rapid pace. Therefore it is very significant to contemplate the
  effect on the power grid due to EV charging most importantly on
  the Distribution network. Increase in widespread presence of EV
